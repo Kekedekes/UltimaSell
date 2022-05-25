@@ -1,0 +1,8 @@
+name: UltimaSell
+version: 1.1-SNAPSHOT
+main: me.xd.ultimasell.UltimaSell
+api-version: 1.16
+depend: [DynamicShop, Vault]
+commands:
+  ultimasell:
+    aliases: [usell]

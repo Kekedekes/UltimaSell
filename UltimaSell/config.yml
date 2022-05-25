@@ -1,0 +1,23 @@
+settings:
+  sign-pattern: "[Auto-Sell]"
+  sign-line: "&c[Auto-Sell]"
+
+sell-wand:
+  type: "STICK"
+  name: "&eSeller Wand"
+  glow: true
+  lore:
+    - ""
+    - "&7Right click with this item on chest"
+    - "&7To sell all its contents"
+    - ""
+
+messages:
+  player-not-found: "&cNo player was found with name!"
+  no-permission: "&cYou don't have permission to this!"
+
+  send-wand-sender: "&aYou send a sell wand to %player_name%."
+  send-wand-target: "&aYou receive a sell wand from %sender_name%."
+
+  sold-items: "&eSold &6{items-amount}x &eitems worth &2$&e{total-price}"
+  no-items: "&cNo items found to be sold"
