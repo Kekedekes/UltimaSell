@@ -1,15 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.Material
- *  org.bukkit.block.Block
- *  org.bukkit.block.BlockFace
- *  org.bukkit.block.Chest
- *  org.bukkit.block.DoubleChest
- *  org.bukkit.block.Sign
- *  org.bukkit.block.data.type.WallSign
- */
 package me.xd.ultimasell.utils;
 
 import java.util.Optional;

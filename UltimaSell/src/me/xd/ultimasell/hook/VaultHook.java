@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  net.milkbowl.vault.economy.Economy
- *  org.bukkit.plugin.RegisteredServiceProvider
- *  org.bukkit.plugin.java.JavaPlugin
- */
 package me.xd.ultimasell.hook;
 
 import net.milkbowl.vault.economy.Economy;

@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.Bukkit
- *  org.bukkit.Material
- *  org.bukkit.configuration.ConfigurationSection
- *  org.bukkit.enchantments.Enchantment
- *  org.bukkit.inventory.ItemFlag
- *  org.bukkit.inventory.ItemStack
- */
 package me.xd.ultimasell.utils.item;
 
 import java.util.ArrayList;

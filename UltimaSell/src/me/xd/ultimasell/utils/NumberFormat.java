@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.xd.ultimasell.utils;
 
 import java.text.DecimalFormat;

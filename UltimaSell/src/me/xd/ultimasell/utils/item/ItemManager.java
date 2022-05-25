@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.configuration.ConfigurationSection
- *  org.bukkit.inventory.ItemStack
- */
 package me.xd.ultimasell.utils.item;
 
 import java.util.HashMap;

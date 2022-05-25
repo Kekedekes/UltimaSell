@@ -1,10 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.ChatColor
- *  org.bukkit.configuration.file.FileConfiguration
- */
 package me.xd.ultimasell.settings;
 
 import me.xd.ultimasell.UltimaSell;

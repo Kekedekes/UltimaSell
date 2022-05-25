@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.block.Chest
- *  org.bukkit.block.Sign
- *  org.bukkit.entity.Player
- *  org.bukkit.event.EventHandler
- *  org.bukkit.event.Listener
- *  org.bukkit.event.block.SignChangeEvent
- *  org.bukkit.event.inventory.InventoryCloseEvent
- *  org.bukkit.inventory.DoubleChestInventory
- *  org.bukkit.inventory.Inventory
- */
 package me.xd.ultimasell.listener;
 
 import java.util.Optional;

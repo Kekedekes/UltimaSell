@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.google.common.util.concurrent.AtomicDouble
- *  me.sat7.dynamicshop.DynaShopAPI
- *  me.sat7.dynamicshop.transactions.Calc
- *  me.sat7.dynamicshop.utilities.ShopUtil
- *  net.milkbowl.vault.economy.Economy
- *  org.bukkit.OfflinePlayer
- *  org.bukkit.entity.Player
- *  org.bukkit.inventory.Inventory
- *  org.bukkit.inventory.ItemStack
- */
 package me.xd.ultimasell.utils;
 
 import com.google.common.util.concurrent.AtomicDouble;

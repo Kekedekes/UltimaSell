@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.Bukkit
- *  org.bukkit.command.Command
- *  org.bukkit.command.CommandExecutor
- *  org.bukkit.command.CommandSender
- *  org.bukkit.entity.Player
- *  org.bukkit.inventory.ItemStack
- */
 package me.xd.ultimasell.commands;
 
 import me.xd.ultimasell.UltimaSell;

@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  com.google.common.util.concurrent.AtomicDouble
- *  org.bukkit.inventory.Inventory
- *  org.bukkit.inventory.ItemStack
- */
 package me.xd.ultimasell.model;
 
 import com.google.common.util.concurrent.AtomicDouble;

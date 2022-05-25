@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.bukkit.command.CommandExecutor
- *  org.bukkit.event.Listener
- *  org.bukkit.plugin.Plugin
- *  org.bukkit.plugin.java.JavaPlugin
- */
 package me.xd.ultimasell;
 
 import me.xd.ultimasell.commands.WandCommand;

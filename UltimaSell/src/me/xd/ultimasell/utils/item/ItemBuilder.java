@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.apache.commons.lang.StringUtils
- *  org.bukkit.Material
- *  org.bukkit.inventory.ItemStack
- *  org.bukkit.inventory.meta.ItemMeta
- */
 package me.xd.ultimasell.utils.item;
 
 import java.util.List;
